@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<insurance>
+
+    <car>
+        <make>Toyota</make>
+        <model>Camry</model>
+        <year>2010</year>
+    </car>
+    <address>
+            <street>10409 Royalton Rd</street>
+            <city>Silver Spring</city>
+            <zip>20701</zip>
+            <state>MD</state>
+            <country>USA</country>
+        </address>
+        
+</insurance>

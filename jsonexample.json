@@ -1,0 +1,16 @@
+{
+    "insurance": {
+        "car": {
+            "make": "Toyota",
+            "model": "Camry",
+            "year": 2010
+        },
+        "address": {
+            "street": "10409 Royalton Rd",
+            "city": "Silver Spring",
+            "zip": 20701,
+            "state": "MD",
+            "country": "USA"
+        }
+    }
+}
